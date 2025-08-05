@@ -1,4 +1,4 @@
-# Hi there https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/lottie.json I’m KritiVas Barad!
+# Hi there <picture> https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/lottie.json <picture> I’m KritiVas Barad!
 
 🚀 Data enthusiast focused on SQL, ETL, and cutting-edge AI applications
 
