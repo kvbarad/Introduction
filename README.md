@@ -1,6 +1,6 @@
 # Hi there <picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32"></picture> I'm KritiVas Barad!
 
-<picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="32" height="32"> </picture>Data enthusiast focused on SQL, ETL, and cutting-edge AI applications
+<picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="20" height="20"> </picture>Data enthusiast focused on SQL, ETL, and cutting-edge AI applications
 
 💼 Experienced with MySQL, Docker, and large dataset processing for industry-scale solutions
 
