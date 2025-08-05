@@ -12,7 +12,7 @@
 
 Let’s connect and build something outstanding together.
 
-# ☕️ Stay Connected
+# <picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2615/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2615/512.gif" alt="☕" width="32" height="32"> </picture> Stay Connected
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@kritivasbarad)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kritivasbarad)
