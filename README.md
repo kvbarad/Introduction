@@ -1,4 +1,4 @@
-# Hi there ![512](https://github.com/user-attachments/assets/d52cecff-7487-4256-ae23-1d7bcdb1d6d0) I'm KritiVas Barad!
+# Hi there ![51](https://github.com/user-attachments/assets/d52cecff-7487-4256-ae23-1d7bcdb1d6d0) I'm KritiVas Barad!
 
 🚀 Data enthusiast focused on SQL, ETL, and cutting-edge AI applications
 
