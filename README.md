@@ -1,5 +1,4 @@
-![512](https://github.com/user-attachments/assets/d52cecff-7487-4256-ae23-1d7bcdb1d6d0)  
-# Hi there I'm KritiVas Barad!
+# Hi there <picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32"></picture> I'm KritiVas Barad!
 
 🚀 Data enthusiast focused on SQL, ETL, and cutting-edge AI applications
 
