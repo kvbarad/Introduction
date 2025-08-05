@@ -1,4 +1,7 @@
-# Hi there 👋 I’m KritiVas Barad!
+# Hi there <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
+</picture> I’m KritiVas Barad!
 
 🚀 Data enthusiast focused on SQL, ETL, and cutting-edge AI applications
 
