@@ -1,4 +1,4 @@
-# Introduction
+# 🫷Introduction🫸
 
 Hi there 👋 I’m KritiVas Barad!
 
@@ -9,7 +9,7 @@ Hi there 👋 I’m KritiVas Barad!
 📚 Always keen to collaborate, learn, and help the open-source community grow
 Let’s connect and build something outstanding together.
 
-# Stay Connected
+# ☕️ Stay Connected
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@kritivasbarad)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kritivasbarad)
