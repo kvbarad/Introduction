@@ -6,7 +6,7 @@
 
 🛠️ Contributor to creative and technical projects, from prompt engineering to onboarding automation
 
-🎯 Actively upskilling towards team leadership
+<picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.gif" alt="🎯" width="20" height="20"> </picture> Actively upskilling towards team leadership
 
 📚 Always keen to collaborate, learn, and help the open-source community grow
 
