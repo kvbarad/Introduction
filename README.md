@@ -17,5 +17,5 @@ Let’s connect and build something outstanding together.
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@kritivasbarad)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kritivasbarad)
 
-# Check [SQL-warehouse-project-macOS](https://github.com/kvbarad/sql-warehouse-project-macOS)
+# Let's Learn <picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" alt="🎓" width="32" height="32"> </picture> [SQL-warehouse-project-macOS](https://github.com/kvbarad/sql-warehouse-project-macOS)
 <picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f447/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f447/512.gif" alt="👇" width="32" height="32"> </picture>
